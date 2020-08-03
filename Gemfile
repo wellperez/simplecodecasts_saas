@@ -13,7 +13,7 @@ group :production do
 end
 
 # Use bootstrap library for style
-gem 'bootstrap-sass', '3.3.1'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use font awesome
 gem 'font-awesome-sass', '4.2.0'
